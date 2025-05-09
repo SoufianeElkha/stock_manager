@@ -1,8 +1,8 @@
-# Documentation du Gestionnaire de Stock Swisspro
+# Documentation du Gestionnaire de Stock
 
 ## Nouvelles fonctionnalités
 
-Cette mise à jour apporte trois améliorations majeures au Gestionnaire de Stock Swisspro :
+Cette mise à jour apporte trois améliorations majeures au Gestionnaire de Stock :
 
 1. **Script de test complet** pour vérifier toutes les fonctionnalités avant la mise en production
 2. **Système de sauvegarde automatique quotidienne** pour protéger vos données
